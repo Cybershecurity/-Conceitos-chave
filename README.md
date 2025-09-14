@@ -58,8 +58,6 @@ Microsoft Learn – Data Protection Fundamentals
 
 Coursera – Internet History, Technology, and Security
 
-✨ Call to Action
-
 🔖 Salve/Save this edition
 🔁 Compartilhe/Share with someone starting in cyber
 🛡️ Siga/Follow CyberShecurity for more accessible, global insights
